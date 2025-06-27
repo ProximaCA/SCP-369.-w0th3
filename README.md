@@ -4,7 +4,7 @@
 **Access Level / Уровень допуска:** 4+
 
 ---
-/w0thu.png
+![w0thu3](w0thu3.png)
 ## 🔒 Special Containment Procedures / Специальные условия содержания
 
 **EN:**  
