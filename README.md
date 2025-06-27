@@ -1,4 +1,4 @@
-# SCP-w0thu3  
+# SCP-369. CODE NAME: w0thu3. 
 **Object Class / Класс объекта:** Euclid (candidate for Thaumiel / кандидат в Thaumiel)  
 **Assigned Personnel / Ответственные:** [REDACTED]  
 **Access Level / Уровень допуска:** 4+
